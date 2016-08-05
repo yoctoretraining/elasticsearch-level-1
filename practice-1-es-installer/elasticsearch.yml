@@ -1,0 +1,19 @@
+# ----------------------------------- Paths ------------------------------------
+#
+# Path to directory where to store the data (separate multiple locations by comma):
+#
+path.data: /Users/balardcedric/Documents/projets/yocto/formation/elasticseach/install/elasticsearch-2.3.5/tp/data
+#
+# Path to log files:
+#
+path.logs: /Users/balardcedric/Documents/projets/yocto/formation/elasticseach/install/elasticsearch-2.3.5/tp/logs
+#
+# ---------------------------------- Network -----------------------------------
+#
+# Set the bind address to a specific IP (IPv4 or IPv6):
+#
+# network.host: 192.168.0.1
+#
+# Set a custom port for HTTP:
+#
+http.port: 10200
